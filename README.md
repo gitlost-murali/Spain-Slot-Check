@@ -6,6 +6,9 @@ __Note:__
 
 *Only* checks for slots. Doesn't book for ethical & legal reasons.
 
+```
+Run python check.py
+```
 ## Functioning:
 
 1. Opens a browser
@@ -13,6 +16,8 @@ __Note:__
 3. selects visa type.
 4. Scans the webpage using OCR.
 5. If the text **doesn't** contain `No slots available`, Telegram-Bot sends a message to the group.
+6. Closes the browser.
+7. Wait randomly for sometime and repeat.
 
 ## Working-Screenshots
 
