@@ -13,9 +13,9 @@ Run python check.py
 
 1. Opens a browser
 2. Accepts T & C
-3. selects visa type.
+3. Selects visa type.
 4. Scans the webpage using OCR.
-5. If the text **doesn't** contain `No slots available`, Telegram-Bot sends a message to the group.
+5. If the text **doesn't** contain `No slots available`, Telegram-Bot sends a message along with screenshot to the group.
 6. Closes the browser.
 7. Wait randomly for sometime and repeat.
 
