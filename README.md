@@ -23,3 +23,8 @@ Run python check.py
 
 ![](images/wkng1.jpeg)
 ![](images/wkng2.jpeg)
+
+## Requirements
+
+telegram-send
+pytesseract
